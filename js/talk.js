@@ -3,12 +3,12 @@ new TypeIt("#tqyxhj", {
         cursorSpeed: 1000,
         speed: 100
     })
-    .type("WRJ ❤ S")
+    .type("亲爱的沈思怡")
     .pause(2000)
     .delete(null, {
         delay: 500
     })
-    .type("期待与你在一起的第一个520...")
+    .type("这是属于我们的第一个520...")
     .pause(3000)
     .go();
 
